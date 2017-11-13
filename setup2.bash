@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written S Nakajima
 
 exec 2> /tmp/setup.log
 
